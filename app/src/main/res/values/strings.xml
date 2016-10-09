@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flavor Flav</string>
+    <string
+        name="app_info"><![CDATA[You are running <strong>%1$s</strong> flavor using the <strong>%2$s</strong> build type.]]></string>
+</resources>
