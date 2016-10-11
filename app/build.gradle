@@ -31,7 +31,6 @@ android {
         stage {
             applicationIdSuffix ".stage"
             manifestPlaceholders = [ appLabel: "Flavor Flav (Stage)" ]
-            buildConfigField "boolean", "STAGE_ONLY_THING", "true"
         }
 
         beta {
